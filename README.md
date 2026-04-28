@@ -1,7 +1,7 @@
 # Linux Security Fundamentals: OverTheWire Bandit
 
 ## Project Overview
-This project documents my journey through the **OverTheWire Bandit** wargame, designed to build proficiency in the Linux command-line interface (CLI) and basic security principles. Through these challenges, I mastered essential tools for system administration and network troubleshooting.
+This repository contains my technical report documenting the completion of the **OverTheWire Bandit** challenges. The project focused on building a solid foundation in the Linux command-line interface (CLI), which is essential for my career goals in **Network Operations (NOC)** and **Cybersecurity**.
 
 ## Documentation
 * **[View Full Technical Report](./Report_Format.docx)**: This document contains step-by-step solutions, screenshots of successful completions, and the logic used to solve complex levels.
@@ -26,17 +26,6 @@ In this level, I developed a Bash script to automate a brute-force attack agains
 * **Scripting**: Bash (loops, variables, pipes)
 # Linux Fundamentals & Security Labs (OverTheWire)
 
-## Project Overview
-This repository contains my technical report documenting the completion of the **OverTheWire Bandit** challenges. [cite_start]The project focused on building a solid foundation in the Linux command-line interface (CLI), which is essential for my career goals in **Network Operations (NOC)** and **Cybersecurity**[cite: 302].
-
-
-## Core Skills Demonstrated
-* **Remote Management**: Using **SSH** to interact with remote Linux servers.
-* **Network Tools**: Utilizing **Netcat (nc)** for service interaction and port communication.
-* **Automated Logic**: Implementing **Bash loops** and sequences to automate repetitive tasks (e.g., Level 24 brute-force simulation).
-* **Data Filtering**: Applying Linux commands like `grep`, `sort`, and `uniq` to isolate critical information.
-
 ## Why This Matters
-[cite_start]Mastering the Linux terminal is a core requirement for troubleshooting enterprise network infrastructure and managing server environments[cite: 302, 307]. [cite_start]This lab served as a practical introduction to the tools I will use daily as a **NOC Engineer**[cite: 302].
-## Conclusion
-This project provided a solid foundation in Linux—a critical skill for my career goal as a **NOC Engineer**. It taught me how to approach complex problems systematically using the terminal.
+Mastering the Linux terminal is a core requirement for troubleshooting enterprise network infrastructure and managing server environments. This project provided a solid foundation in Linux—a critical skill for my career goal as a **NOC Engineer**. It taught me how to approach complex problems systematically using the terminal.
+
